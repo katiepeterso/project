@@ -19,11 +19,17 @@ button {
   background-color: #C5E7FA;
   color: #094669;
   display: inline-block;
-  margin-left: 22.5em;
+  margin-left: 23.5em;
 }
 button:hover {
   text-decoration: underline;
 }
 #signup {
-  margin-left: 21.75em;
+  margin-left: 23em;
+}
+select {
+  margin-left: -.25em;
+}
+select:hover {
+  border-color:#999999;
 }
