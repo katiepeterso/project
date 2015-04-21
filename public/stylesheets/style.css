@@ -1,0 +1,28 @@
+* {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  margin: .5em .25em .5em .25em;
+}
+form {
+  border: .1em solid black;
+  background-color: #12D5BB;
+  width: 24em;
+}
+label {
+  display: inline-block;
+  width: 12em;
+}
+input{
+  display: inline-block;
+}
+button {
+  background-color: #C5E7FA;
+  color: #094669;
+  display: inline-block;
+  margin-left: 22.5em;
+}
+button:hover {
+  text-decoration: underline;
+}
+#signup {
+  margin-left: 21.75em;
+}
