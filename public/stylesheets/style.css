@@ -4,6 +4,7 @@
 }
 form {
   border: .1em solid black;
+  border-radius: .5em;
   background-color: #12D5BB;
   width: 24em;
 }
